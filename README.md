@@ -1,2 +1,2 @@
-# Shell-Script-ejercicios
+# Shell Script
 Programación en Shell Script  
